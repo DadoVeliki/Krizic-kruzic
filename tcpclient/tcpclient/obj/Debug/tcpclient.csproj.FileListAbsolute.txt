@@ -1,0 +1,11 @@
+C:\Users\MSI\source\repos\tcpclient\tcpclient\bin\Debug\tcpclient.exe.config
+C:\Users\MSI\source\repos\tcpclient\tcpclient\bin\Debug\tcpclient.exe
+C:\Users\MSI\source\repos\tcpclient\tcpclient\bin\Debug\tcpclient.pdb
+C:\Users\MSI\source\repos\tcpclient\tcpclient\obj\Debug\tcpclient.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\tcpclient\tcpclient\obj\Debug\tcpclient.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\source\repos\tcpclient\tcpclient\obj\Debug\tcpclient.Form1.resources
+C:\Users\MSI\source\repos\tcpclient\tcpclient\obj\Debug\tcpclient.Properties.Resources.resources
+C:\Users\MSI\source\repos\tcpclient\tcpclient\obj\Debug\tcpclient.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\tcpclient\tcpclient\obj\Debug\tcpclient.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\tcpclient\tcpclient\obj\Debug\tcpclient.exe
+C:\Users\MSI\source\repos\tcpclient\tcpclient\obj\Debug\tcpclient.pdb

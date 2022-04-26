@@ -1,0 +1,11 @@
+C:\Users\MSI\source\repos\tcpserver\tcpserver\bin\Debug\tcpserver.exe.config
+C:\Users\MSI\source\repos\tcpserver\tcpserver\bin\Debug\tcpserver.exe
+C:\Users\MSI\source\repos\tcpserver\tcpserver\bin\Debug\tcpserver.pdb
+C:\Users\MSI\source\repos\tcpserver\tcpserver\obj\Debug\tcpserver.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\tcpserver\tcpserver\obj\Debug\tcpserver.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\source\repos\tcpserver\tcpserver\obj\Debug\tcpserver.Form1.resources
+C:\Users\MSI\source\repos\tcpserver\tcpserver\obj\Debug\tcpserver.Properties.Resources.resources
+C:\Users\MSI\source\repos\tcpserver\tcpserver\obj\Debug\tcpserver.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\tcpserver\tcpserver\obj\Debug\tcpserver.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\tcpserver\tcpserver\obj\Debug\tcpserver.exe
+C:\Users\MSI\source\repos\tcpserver\tcpserver\obj\Debug\tcpserver.pdb

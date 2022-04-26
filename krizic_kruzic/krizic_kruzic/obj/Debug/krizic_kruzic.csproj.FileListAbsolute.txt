@@ -1,0 +1,10 @@
+C:\Users\MSI\source\repos\krizic_kruzic\krizic_kruzic\bin\Debug\krizic_kruzic.exe.config
+C:\Users\MSI\source\repos\krizic_kruzic\krizic_kruzic\bin\Debug\krizic_kruzic.exe
+C:\Users\MSI\source\repos\krizic_kruzic\krizic_kruzic\bin\Debug\krizic_kruzic.pdb
+C:\Users\MSI\source\repos\krizic_kruzic\krizic_kruzic\obj\Debug\krizic_kruzic.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\source\repos\krizic_kruzic\krizic_kruzic\obj\Debug\krizic_kruzic.Form1.resources
+C:\Users\MSI\source\repos\krizic_kruzic\krizic_kruzic\obj\Debug\krizic_kruzic.Properties.Resources.resources
+C:\Users\MSI\source\repos\krizic_kruzic\krizic_kruzic\obj\Debug\krizic_kruzic.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\krizic_kruzic\krizic_kruzic\obj\Debug\krizic_kruzic.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\krizic_kruzic\krizic_kruzic\obj\Debug\krizic_kruzic.exe
+C:\Users\MSI\source\repos\krizic_kruzic\krizic_kruzic\obj\Debug\krizic_kruzic.pdb
